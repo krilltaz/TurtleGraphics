@@ -1,0 +1,16 @@
+bg 1
+rotate -45
+move 30
+pattern @
+FG 9
+draw 15
+FG 10
+rotate 90
+draw 15
+fg 14
+rotate 90
+draw 15
+fG 11
+rotate 90
+draw 15
+

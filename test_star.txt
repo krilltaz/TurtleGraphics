@@ -1,0 +1,14 @@
+bg 0
+fg 13
+rotate -45
+move 30
+rotate 45
+draw 30
+rotate 210
+draw 30
+rotate 220
+draw 30
+rotate 220
+draw 30
+rotate 220
+draw 30

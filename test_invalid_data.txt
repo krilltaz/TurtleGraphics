@@ -1,0 +1,14 @@
+Fg 32.4
+rotOte 32
+drAw
+FG -3
+Bg 100
+patern 3
+mOvE 0.2 3
+DRaw 1001
+TELEport 3 5
+rootate 200 12
+drAW *
+paTTern /n
+DRive 14
+BG -2
